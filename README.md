@@ -1,3 +1,4 @@
+# Descrição
 
 O presente código detalha a implementação de uma solução em linguagem C para simular o fluxo de veículos em um cruzamento de quatro vias (Norte, Sul, Leste e Oeste) usando a biblioteca `POSIX Pthreads` para gerenciar a execução concorrente e a sincronização. O objetivo principal é gerenciar o tráfego de carros e ambulâncias (com prioridade) para evitar colisões e _starvation_ (inanição).
 
